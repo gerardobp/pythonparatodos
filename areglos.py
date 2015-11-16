@@ -26,3 +26,6 @@ l3 = l[-2]
 print l2
 print l3
 print "A falta de amor , programar en python mejor :3"
+
+
+print "esto lo hice desde la pc de toño"
