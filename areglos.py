@@ -29,3 +29,7 @@ print "A falta de amor , programar en python mejor :3"
 
 
 print "esto lo hice desde la pc de toño"
+
+
+
+otra vez subi cosas
